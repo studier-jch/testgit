@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+//这是一个测试注释
+>>>>>>> dev
 #include <iostream>
 using namespace std;
 typedef int Status;
@@ -202,4 +206,8 @@ int main()
         InsertAVL(T, a[i], &taller);
     pre_order(T);
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> dev
